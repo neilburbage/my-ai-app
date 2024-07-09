@@ -30,19 +30,18 @@ Environment Variables
 Create a .env file in the root of your project with the following content:
 OPENAI_API_KEY=your_secret_key_here
 
-Deployment
+Deploy on Vercel
 
-Instructions for deploying the app will go here. Typically, you would deploy a Next.js app using services like Vercel, Netlify, or your preferred hosting provider.
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
+Check out our Next.js deployment documentation for more details.
+
+•	Next.js Documentation - Learn about Next.js features and API.
+•	Learn Next.js - An interactive Next.js tutorial.
 
 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-License
 
-This project is licensed under the MIT License.
 
-Additional Resources
-
-	•	Next.js Documentation - Learn about Next.js features and API.
-	•	Learn Next.js - An interactive Next.js tutorial.
+	
