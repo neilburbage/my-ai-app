@@ -16,14 +16,14 @@ My AI App is a web application built using Next.js and Tailwind CSS. It features
 To install the dependencies, clone the repository and run:
 
 ```bash
-[git clone](https://github.com/yourusername/my-ai-app.git)
+git clone https://github.com/yourusername/my-ai-app.git
 cd my-ai-app
 npm install
 
 Usage
 
 To start the development server, run: npm run dev
-[Open](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 with your browser to see the result.
 
 Environment Variables
 
