@@ -39,6 +39,7 @@ OPENAI_API_KEY=your_secret_key_here
 Deployment
 
 The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js. 
+
 Check out the [Next.js deployment documentation]() for more details.
 
 Additional Resources
