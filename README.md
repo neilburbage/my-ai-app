@@ -36,13 +36,12 @@ Create a .env file in the root of your project with the following content:
 ```bash
 OPENAI_API_KEY=your_secret_key_here
 ```
-Deploy on Vercel
+Deployment
+The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js. Check out the Next.js deployment documentation for more details.
 
-The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
-Check out our Next.js deployment documentation for more details.
-
-•	Next.js Documentation - Learn about Next.js features and API.
-•	Learn Next.js - An interactive Next.js tutorial.
+Additional Resources
+Next.js Documentation - Learn about Next.js features and API.
+Learn Next.js - An interactive Next.js tutorial.
 
 Contributing
 
