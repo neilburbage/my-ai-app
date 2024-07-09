@@ -33,8 +33,9 @@ Open http://localhost:3000 with your browser to see the result.
 Environment Variables
 
 Create a .env file in the root of your project with the following content:
+```bash
 OPENAI_API_KEY=your_secret_key_here
-
+```
 Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the Vercel Platform from the creators of Next.js.
